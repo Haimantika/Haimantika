@@ -4,6 +4,8 @@
 - 🔭 Training and testing in real and reel life. Diving into the Power Platform. Speaking at events and trying to make technology easier for everyone.
 - 🤔 About me: You may find me 'hash-tagging' frequently at [Twitter](https://twitter.com/HaimantikaM), making connections in [LinkedIn](https://www.linkedin.com/in/haimantika-mitra-3b8a9b160/) and storing all my data in [GitHub](https://github.com/Haimantika). Drop me a mail at haimantikamitra@gmail.com to grab a coffee :coffee:. You may occasionally find me venting out my emotions in [Medium](https://medium.com/@haimantikamitra) or posting random food pictures :yum: in Twitter. To know more about me, you can reach out to me through any platform(I have an account in almost every platform) :stuck_out_tongue_closed_eyes:.
 - ⚡ Fun fact: I switch from being a techie to a blogger to a cook real fast!
+- :woman: More about me: ![fun](https://user-images.githubusercontent.com/32809211/87785689-3af37d80-c856-11ea-91c7-ef17fa532203.png)
+
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
