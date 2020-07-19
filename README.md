@@ -44,3 +44,9 @@
 - ⚡ Fun fact: I switch from being a techie to a blogger to a cook real fast!
 
 ![fun (1)](https://user-images.githubusercontent.com/32809211/87789948-734a8a00-c85d-11ea-9cc9-d733e820c2de.jpg)
+
+
+
+
+![Haimantika's github stats](https://github-readme-stats.vercel.app/api?username=Haimantika&show_icons=true&title_color=EEFCEF&icon_color=EEFCEF&text_color=00B0E0&bg_color=151515)
+
