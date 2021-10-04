@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![HitCount](http://hits.dwyl.com/Haimantika/Haimantika.svg)](http://hits.dwyl.com/Haimantika/Haimantika) <img alt="GitHub followers" src="https://img.shields.io/github/followers/Haimantika?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/HaimantikaM?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=haimantika&label=Profile%20views&color=0e75b6&style=flat" alt="haimantika" /> </p>
+src="https://img.shields.io/github/followers/Haimantika?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/HaimantikaM?style=social) <p align="left"> <img src="https://komarev.com/ghpvc/?username=haimantika&label=Profile%20views&color=0e75b6&style=flat" alt="haimantika" /> </p>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
