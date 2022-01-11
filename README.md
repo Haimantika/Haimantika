@@ -4,7 +4,6 @@ src="https://img.shields.io/github/followers/Haimantika?style=social"> ![Twitter
 
 ## 📫 Reach me at:
 
-[![GitHub](icons/github.png)](https://github.com/Haimantika)
 [![Twitter](icons/twitter.png)](https://twitter.com/HaimantikaM)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/haimantika-mitra)
 
