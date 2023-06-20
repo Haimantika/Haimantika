@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img alt="GitHub followers" 
-src="https://img.shields.io/github/followers/Haimantika?style=social"> ![Twitter Follow](https://img.shields.io/twitter/follow/HaimantikaM?style=social) <p align="left"> </p>
+src="https://img.shields.io/github/followers/Haimantika?style=social"> 
 
 ## 📫 Reach me at:
 
