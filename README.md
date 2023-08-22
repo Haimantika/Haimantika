@@ -11,11 +11,11 @@ src="https://img.shields.io/github/followers/Haimantika?style=social">
 ![edebd27aaf5015034ca452375a3b0969](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif)
 
 - 🔭 Training and testing in real and reel life. Diving into the Power Platform. Speaking at events and trying to make technology easier for everyone.
-- 🤔 About me: You may find me 'hash-tagging' frequently at [Twitter](https://twitter.com/HaimantikaM), making connections in [LinkedIn](https://www.linkedin.com/in/haimantika-mitra-3b8a9b160/) and storing all my data in [GitHub](https://github.com/Haimantika). To know more about me, you can reach out to me through any platform(I have an account in almost every platform) :stuck_out_tongue_closed_eyes:.
+- 🤔 About me: You may find me 'hash-tagging' frequently at [Twitter](https://twitter.com/HaimantikaM), making connections in [LinkedIn](https://www.linkedin.com/in/haimantika-mitra-3b8a9b160/) and storing all my data in [GitHub](https://github.com/Haimantika). To know more about me, you can reach out to me through any platform(I have an account on almost every platform) :stuck_out_tongue_closed_eyes:.
 
-- ⚡ Fun fact: I switch from being a techie to a blogger to a cook real fast!
+- ⚡ Fun fact: I switch from being a techie to a blogger to a cook really fast!
 
-- 👨‍💻 All of my projects are available at: [haimantika.codes](haimantika.codes)
+- 👨‍💻 All of my projects are available at [haimantika.com](haimantika.com)
 
 
 <h3 align="left">Languages and Tools:</h3>
