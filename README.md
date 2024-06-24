@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/Haimantika?style=social">
 
 - 👩‍💻 Developer Advocate at Hashnode. Have previously worked at Appwrite and Microsoft.
 - 👯 All things frontend, GenAI and DevRel. You can find some of my many weekend projects and tech blogs in [haimantika.dev](https://haimantika.dev/#home).
-- 🔍 If you want to know more, go to your terminal and type `npx hello-haimantika` and if you are lazy, just find more on [haimantika.com](haimantika.com)
+- 🔍 If you want to know more, go to your terminal and type `npx hello-haimantika` and if you are lazy, just find more on [haimantika.com](https://haimantika.com/)
 
 - ⚡ Two truths, one lie: If you can spot the lie, drop a DM to [@HaimantikaM](https://twitter.com/HaimantikaM)
     - I started one of my jobs with a 15 days vacation.
