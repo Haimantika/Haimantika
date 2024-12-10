@@ -37,3 +37,13 @@ src="https://img.shields.io/github/followers/Haimantika?style=social">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimantika&layout=compact" alt="haimantika" /></p>
 
+### Sponsors 💸
+
+Thank you so much to the following people for sponsoring me:
+
+
+| | Sponsor Name | GitHub Handle / Link | 
+|-|--------------|----------------------|
+| <img src="https://avatars.githubusercontent.com/u/53110238?v=4" width="100"> | Animesh Pathak | [@sonichigo](https://github.com/Sonichigo) | 
+| <img src="https://avatars.githubusercontent.com/u/15572034?v=4" width="100"></img> | Mukul Mantosh | [@mukulmantosh](https://github.com/mukulmantosh) | 
+
