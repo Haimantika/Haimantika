@@ -10,7 +10,7 @@ src="https://img.shields.io/github/followers/Haimantika?style=social">
 
 ![edebd27aaf5015034ca452375a3b0969](https://user-images.githubusercontent.com/32809211/87786036-e7cdfa80-c856-11ea-9190-f4106d1fbc43.gif)
 
-- 👩‍💻 Developer Advocate at Hashnode. Have previously worked at Appwrite and Microsoft.
+- 👩‍💻 Developer Advocate at DigitalOcean. Have previously worked at Appwrite and Microsoft.
 - 👯 All things frontend, GenAI and DevRel. You can find some of my many weekend projects and tech blogs in [haimantika.dev](https://haimantika.dev/#home).
 - 🔍 If you want to know more, go to your terminal and type `npx hello-haimantika` and if you are lazy, just find more on [haimantika.com](https://haimantika.com/)
 
