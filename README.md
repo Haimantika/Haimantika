@@ -47,4 +47,5 @@ Thank you so much to the following people for sponsoring me:
 |-|--------------|----------------------|
 | <img src="https://avatars.githubusercontent.com/u/53110238?v=4" width="100"> | Animesh Pathak | [@sonichigo](https://github.com/Sonichigo) | 
 | <img src="https://avatars.githubusercontent.com/u/15572034?v=4" width="100"></img> | Mukul Mantosh | [@mukulmantosh](https://github.com/mukulmantosh) | 
+| <img src="https://avatars.githubusercontent.com/u/11256141?v=4" width="100"></img> | Aakansha Doshi | [@ad1992](https://github.com/ad1992) | 
 
