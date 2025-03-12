@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/Haimantika?style=social">
 
 ### Sponsors 💸
 
-Thank you so much to the following people for sponsoring me:
+Thank you so much to my past and present sponsors:
 
 
 | | Sponsor Name | GitHub Handle / Link | 
@@ -49,4 +49,4 @@ Thank you so much to the following people for sponsoring me:
 | <img src="https://avatars.githubusercontent.com/u/15572034?v=4" width="100"></img> | Mukul Mantosh | [@mukulmantosh](https://github.com/mukulmantosh) | 
 | <img src="https://avatars.githubusercontent.com/u/11256141?v=4" width="100"></img> | Aakansha Doshi | [@ad1992](https://github.com/ad1992) | 
 | <img src="https://avatars.githubusercontent.com/u/25244718?v=4" width="100"></img> | Prateek Singh Rathore | [@psrvere](https://github.com/psrvere) | 
-
+| <img src="https://avatars.githubusercontent.com/u/81682916?v=4" width="100"></img> | Shaian | [@zshaian](https://github.com/zshaian) | 
