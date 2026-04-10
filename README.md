@@ -12,9 +12,7 @@ src="https://img.shields.io/github/followers/Haimantika?style=social">
 
 - 👩‍💻 Developer Advocate at DigitalOcean. Have previously worked at Appwrite and Microsoft.
 - ✍️ Authored an eBook on ["How to DevRel for startups"](https://learn.haimantika.com/).
-- 👯 All things frontend, GenAI and DevRel. You can find some of my many weekend projects and tech blogs in [haimantika.dev](https://haimantika.dev/#home).
-- 🔍 If you want to know more, go to your terminal and type `npx hello-haimantika` and if you are lazy, just find more on [haimantika.com](https://haimantika.com/)
-
+- 👯 All things frontend, GenAI and DevRel. You can find some of my many weekend projects and tech blogs in [haimantika.com](https://haimantika.com).
 - ⚡ Two truths, one lie: If you can spot the lie, drop a DM to [@HaimantikaM](https://twitter.com/HaimantikaM)
     - I started one of my jobs with a 15 days vacation.
     - I wrote "I am a serial chiller" in one job application as a fun fact, and I ended up getting the job.
@@ -35,8 +33,6 @@ src="https://img.shields.io/github/followers/Haimantika?style=social">
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haimantika&layout=compact" alt="haimantika" /></p>
 
 ### Sponsors 💸
 
